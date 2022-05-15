@@ -14,7 +14,7 @@ class Student {
 
 int main(){
 
-    Student *s1 = new Student();
+    Student *s1 = old Student();
 
     return 0;
 }
