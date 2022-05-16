@@ -19,7 +19,7 @@ int Addmoney(int m){
 			for(int i=0;i<9;i++){
 				if(arr[i][1]==password){
 					t=5;
-					cout<<"Password is strong"<<endl;
+					cout<<"Password is strongg"<<endl;
 				}
 				}
 			}
