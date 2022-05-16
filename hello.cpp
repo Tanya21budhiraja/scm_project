@@ -18,7 +18,7 @@ class Test {
 
 int main(){
 
-    Test *t1 = new Test("Tushar");
+    Test *t1 = new Test("kapil");
     cout << t1->n1 << endl;
     cout << &t1 << endl;
 
