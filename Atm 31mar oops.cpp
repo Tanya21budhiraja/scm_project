@@ -9,7 +9,7 @@ int Addmoney(int m){
 	return 0;
 	}
 	int main(){
-	int arr[8][2]={1,101,2,102,3,103,4,104,5,105,6,106,7,107,8,108};
+	int arr[8][2]={1,101,2,201,3,301,4,401,5,501,6,601,7,701,8,801};
 	int username,password;
 	cout<<"Enter your username and password";
 	cin>>username>>password;
