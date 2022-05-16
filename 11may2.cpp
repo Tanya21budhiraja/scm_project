@@ -9,7 +9,7 @@ using namespace std;
 	{
 		node *temp, *temp1;
 		temp = new node;
-		temp -> data = 40;
+		temp -> data = 100;
 		temp -> link = NULL;                         
 		cout<<temp->data<<"   "<<temp->link<<endl;
 
